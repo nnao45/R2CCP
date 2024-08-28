@@ -3,6 +3,5 @@ dist/
 **/__pycache__/**
 R2CCP.egg-info/
 .idea
-poetry.lock
 model_*
 lightning_logs
